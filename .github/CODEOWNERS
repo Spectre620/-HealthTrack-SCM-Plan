@@ -1,0 +1,8 @@
+# The Tech Lead owns the SCM Plan itself
+README.md @Spectre620
+
+# The Database Team owns all SQL files
+*.sql @Spectre620
+
+# The Frontend Team owns all Javascript
+*.js @Spectre620
